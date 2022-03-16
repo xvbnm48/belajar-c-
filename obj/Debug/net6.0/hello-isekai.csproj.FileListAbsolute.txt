@@ -1,0 +1,15 @@
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/bin/Debug/net6.0/hello-isekai
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/bin/Debug/net6.0/hello-isekai.deps.json
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/bin/Debug/net6.0/hello-isekai.runtimeconfig.json
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/bin/Debug/net6.0/hello-isekai.dll
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/bin/Debug/net6.0/hello-isekai.pdb
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.csproj.AssemblyReference.cache
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.GeneratedMSBuildEditorConfig.editorconfig
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.AssemblyInfoInputs.cache
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.AssemblyInfo.cs
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.csproj.CoreCompileInputs.cache
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.dll
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/refint/hello-isekai.dll
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.pdb
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/hello-isekai.genruntimeconfig.cache
+/media/fariz/Data/FILE_PEMOGRAMMAN_BELAJAR/c#/hello-isekai/obj/Debug/net6.0/ref/hello-isekai.dll
